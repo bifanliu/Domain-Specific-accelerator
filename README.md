@@ -1,4 +1,4 @@
-# Domain-Spetic accelerator
+# Domain-Specific accelerator
 I have documented the process of setting up the environment for this class in detail, and the detailed information about DSA will be included in the course materials. I am using the Home edition of Windows 11
 
 ```material/.```
